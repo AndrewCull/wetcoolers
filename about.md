@@ -29,7 +29,8 @@ layout: page
 </div>
 <div class="large-9 medium-9 small-12 columns">
 <h2 class="subheading" style="line-height: auto;"><small>From large water systems to office coolers, our value is in our service and expertise.</small></h2>
-<p>In 2003, our founders were asked by Alaska Airlines to figure out an impossible challenge - make a small Alaskan airport water safe to drink. With less than 60 days to complete the project, under threat of FAA shutdown, the team completed the challenge and Water Engineering Technologies was born.</p>
+
+<p>Water Engineering Technologies began in 1996, and we pioneer of bottle-less water dispensers with our first installs in 1998. In 2002, the company asked by Alaska Airlines to figure out an impossible challenge - make the remote Yakutat, Alaska airport's water safe to drink. With less than 60 days to complete the project, under threat of FAA shutdown, the team completed the challenge and our reputation developed as a professional company, and experts in bringing the cleanest water to almost anywhere.</p>
 
 
 <p>Our commitment to providing you with the highest performance water purification systems in the marketplace. We are now able to install sleek, modern-looking, bottle-less water system at a fraction of the cost of bottled water without any of the health issues associated with bottled water dispensers.</p>
