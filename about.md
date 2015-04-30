@@ -4,7 +4,7 @@ layout: page
 ---
 <div class="row">
 <div class="large-12 columns">
-<h1>We are Your Water Experts</h1>
+
 </div>
 </div>
 
@@ -28,12 +28,12 @@ layout: page
 
 </div>
 <div class="large-9 medium-9 small-12 columns">
-<h2 class="subheading" style="line-height: auto;"><small>From large water systems to office coolers, our value is in our service and expertise.</small></h2>
+<h1>We are Your Water Experts</h1>
+<h2 class="subheading" style="line-height: 1.3rem; margin-bottom: 10px;"><small>From large water systems to office coolers, our value is in our service and expertise.</small></h2>
 
-<p>Water Engineering Technologies began in 1996, and we pioneer of bottle-less water dispensers with our first installs in 1998. In 2002, the company asked by Alaska Airlines to figure out an impossible challenge - make the remote Yakutat, Alaska airport's water safe to drink. With less than 60 days to complete the project, under threat of FAA shutdown, the team completed the challenge and our reputation developed as a professional company, and experts in bringing the cleanest water to almost anywhere.</p>
+<p>Water Engineering Technologies began in 1996, and we pioneered bottle-less water dispensers with our first installs in 1998. In 2002, the company was asked by Alaska Airlines to figure out an impossible challenge - make the remote Yakutat, Alaska airport's water safe to drink. With less than 60 days to complete the project, under threat of FAA shutdown, the team completed the challenge and our reputation, for providing the cleanest water to almost anywhere, was born. We've since completed many more similar projects as well as developed solutions for municipal, office, healthcare facilities, and health clubs.</p>
 
-
-<p>Our commitment to providing you with the highest performance water purification systems in the marketplace. We are now able to install sleek, modern-looking, bottle-less water system at a fraction of the cost of bottled water without any of the health issues associated with bottled water dispensers.</p>
+<p>As our customer, we are committed to providing you with the highest performance water purification systems in the marketplace combining our product expertise with best-in-class service. We'll install sleek, modern-looking, bottle-less water system anywhere in your building at a fraction of the cost of bottled water without the health issues associated with bottled water dispensers. Furthermore, we can install these systems anywhere in your building.</p>
 
 <p>Using technology previously only available in expensive healthcare water systems, our bottle-less water purification coolers are the most effective way to provide fresh, pure, oxygenated drinking water to your employees. No longer will you have to deal with the high cost and hassle of bottled water delivery services.</p>
 
