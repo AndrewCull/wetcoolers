@@ -16,7 +16,7 @@ layout: page
 <div class="row">
 <div class="large-12 medium-12 columns">
 <h1>{{ page.title }}</h1>
-<p>We provide the best solutions in the industry, and we'd like to show you by installing one of our units at your location for free!  If, after 7 days, you decide to you like it, simply start your monthly service.  If not, we will remove the unit from your location at no charge. Please complete the form below and we will contact you to get started.<p>
+<p>We provide the best water solutions in the industry, and we'd like to show you by installing one of our units at your location for free!  If, after 7 days, you decide you like it, simply start your monthly service.  If not, we will remove the unit from your location at no charge. Please complete the form below and we will contact you to get started.<p>
 
 </div>
 </div>
