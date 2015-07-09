@@ -7,12 +7,14 @@ header {
   margin-right: 0;
   padding-top: 5px;
   padding-bottom: 5px;
+  border-bottom: 1px solid gray;
 }
 
-.logo {
-  width: 200px;
+.logo img {
+  max-width: 150px;
   height: auto;
-  padding: 3px;
+  padding-bottom: 0;
+  padding-top: 10px;
 }
 
 .border-bottom {

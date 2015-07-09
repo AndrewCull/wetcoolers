@@ -227,8 +227,8 @@ $h1-font-size: rem-calc(37);
 // $subheader-line-height: 1.4;
 // $subheader-font-color: scale-color($header-font-color, $lightness: 35%);
 // $subheader-font-weight: $font-weight-normal;
-// $subheader-top-margin: .2rem;
-// $subheader-bottom-margin: .5rem;
+$subheader-top-margin: -1rem;
+$subheader-bottom-margin: .5rem;
 
 // A general <small> styling
 // $small-font-size: 60%;
@@ -427,7 +427,7 @@ $h1-font-size: rem-calc(37);
 
 // We use these to build padding for buttons.
 // $button-tny: rem-calc(10);
-// $button-sml: rem-calc(14);
+$button-sml: rem-calc(14);
 // $button-med: rem-calc(16);
 // $button-lrg: rem-calc(18);
 

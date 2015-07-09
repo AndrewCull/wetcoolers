@@ -7702,7 +7702,7 @@ h6 {
   line-height: 1.4;
   color: #6f6f6f;
   font-weight: normal;
-  margin-top: 0.2rem;
+  margin-top: -1rem;
   margin-bottom: 0.5rem;
 }
 
@@ -9164,7 +9164,7 @@ body {
 
 /* line 6, ../_scss/_layout.scss */
 .spacer {
-  padding-top: 3em;
+  padding-top: 2em;
 }
 
 /* line 10, ../_scss/_layout.scss */
@@ -9188,6 +9188,11 @@ h1 {
   font-weight: 700;
 }
 
+/* line 28, ../_scss/_layout.scss */
+.main {
+  margin-top: 4.125rem;
+}
+
 /* line 1, ../_scss/_header.scss */
 header {
   padding-top: 5px;
@@ -9198,16 +9203,18 @@ header {
   margin-right: 0;
   padding-top: 5px;
   padding-bottom: 5px;
+  border-bottom: 1px solid gray;
 }
 
-/* line 12, ../_scss/_header.scss */
-.logo {
-  width: 200px;
+/* line 13, ../_scss/_header.scss */
+.logo img {
+  max-width: 150px;
   height: auto;
-  padding: 3px;
+  padding-bottom: 0;
+  padding-top: 10px;
 }
 
-/* line 18, ../_scss/_header.scss */
+/* line 20, ../_scss/_header.scss */
 .border-bottom {
   border-bottom: 1px solid #EFEFEF;
 }
