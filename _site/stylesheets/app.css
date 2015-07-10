@@ -9208,7 +9208,7 @@ header {
 
 /* line 13, ../_scss/_header.scss */
 .logo img {
-  width: 200px;
+  max-width: 150px;
   height: auto;
   padding-bottom: 0;
   padding-top: 10px;
