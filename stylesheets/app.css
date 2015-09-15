@@ -7631,14 +7631,14 @@ a img {
 p {
   font-family: inherit;
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 0.85rem;
   line-height: 1.6;
   margin-bottom: 1.25rem;
   text-rendering: optimizeLegibility;
 }
 /* line 242, ../bower_components/foundation/scss/foundation/components/_type.scss */
 p.lead {
-  font-size: 1.21875rem;
+  font-size: 1.06875rem;
   line-height: 1.6;
 }
 /* line 244, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -7653,7 +7653,7 @@ p aside {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  font-style: normal;
+  font-style: bold;
   color: #222222;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
@@ -7669,12 +7669,12 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 /* line 269, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h1 {
-  font-size: 1.6875rem;
+  font-size: 1.25rem;
 }
 
 /* line 270, ../bower_components/foundation/scss/foundation/components/_type.scss */
 h2 {
-  font-size: 1.6875rem;
+  font-size: 0.875rem;
 }
 
 /* line 271, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -7753,7 +7753,7 @@ code {
 ul,
 ol,
 dl {
-  font-size: 1rem;
+  font-size: 0.85rem;
   line-height: 1.6;
   margin-bottom: 1.25rem;
   list-style-position: outside;
@@ -7919,12 +7919,12 @@ blockquote p {
 
   /* line 456, ../bower_components/foundation/scss/foundation/components/_type.scss */
   h1 {
-    font-size: 2.3125rem;
+    font-size: 1.875rem;
   }
 
   /* line 457, ../bower_components/foundation/scss/foundation/components/_type.scss */
   h2 {
-    font-size: 2.3125rem;
+    font-size: 1.5rem;
   }
 
   /* line 458, ../bower_components/foundation/scss/foundation/components/_type.scss */
@@ -9261,4 +9261,25 @@ footer p {
 .industries {
   border-radius: 50%;
   max-height: 150px;
+}
+
+/* line 1, ../_scss/_ui-components.scss */
+.top-bar-section ul li a {
+  font-weight: bold;
+}
+
+/* line 6, ../_scss/_ui-components.scss */
+.border-top {
+  border-top: 1px solid #DDDDDD;
+  padding-top: 5px;
+}
+@media only screen and (min-width: 40.063em) {
+  /* line 6, ../_scss/_ui-components.scss */
+  .border-top {
+    border-left: 1px solid #DDDDDD;
+    border-top: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+  }
 }

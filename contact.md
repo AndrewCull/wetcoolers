@@ -50,7 +50,7 @@ layout: page
 
 <div class="row">
 <div class="large-12 columns">
-  <button type="submit" class="button small">Submit</button>
+  <button type="submit" class="button small radius">Submit</button>
 </div>
 </div>
 

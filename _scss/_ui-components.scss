@@ -1,0 +1,17 @@
+.top-bar-section ul li a {
+  font-weight: bold;
+}
+
+
+.border-top {
+  border-top: 1px solid $gainsboro;
+  padding-top: 5px;
+  @media #{$medium-up} {
+    border-left: 1px solid $gainsboro;
+    border-top: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+
+}
+}
