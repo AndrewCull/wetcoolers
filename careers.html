@@ -16,7 +16,7 @@ layout: default
     </tr>
 {% for job in site.careers %}
     <tr>
-      <td>{{ job.title }}</td>
+      <td><a href="{{ job.url }}">{{ job.title }}</a></td>
       <td>
         {{ job.summary }}
       </td>
