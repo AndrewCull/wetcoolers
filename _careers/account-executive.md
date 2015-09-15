@@ -13,6 +13,7 @@ rates and many happy customers since 1996.  Account Executives play a key role i
 
 ## The Job
 As an Account Executive, you will be responsible for:
+
 - Working within assigned territory to qualify, convert, and close service
 contracts.
 - Making outbound lead follow-up calls to potential and existing
