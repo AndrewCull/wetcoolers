@@ -75,7 +75,7 @@ Seattle, Washington 98138
 </p>
 
 <p><strong>Phone & Email</strong><br/>
-<i class="fa fa-phone"></i><a href="tel:1-877-466-2688">1 (877) 4 NO BOTTLE</a><br/>
+<i class="fa fa-phone"></i><a href="tel:1-877-466-2688">(877) 4 NO BOTTLE</a><br/>
 <i class="fa fa-phone"></i><a href="tel:253-893-7520">(253) 893-7520</a><br/>
 <i class="fa fa-envelope-o"></i><a href="mailto: info@wetcoolers.com">info@wetcoolers.com</a>
 </p>
