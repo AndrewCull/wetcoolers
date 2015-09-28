@@ -68,13 +68,14 @@ layout: page
 
 </div>
 <div class="large-4 medium-4 columns">
-<p><strong>Office Address</strong><br/>
+<p><strong>Mailing Address</strong><br/>
 Water Engineering Technologies<br/>
-18439 East Valley Rd.<br/>
-Kent,  Washington 98032<br/>
+PO Box 58218<br/>
+Seattle, Washington 98138
 </p>
 
-<p><strong>Contact Info</strong><br/>
+<p><strong>Phone & Email</strong><br/>
+<i class="fa fa-phone"></i><a href="tel:1-877-466-2688">1 (877) 4 NO BOTTLE</a><br/>
 <i class="fa fa-phone"></i><a href="tel:253-893-7520">(253) 893-7520</a><br/>
 <i class="fa fa-envelope-o"></i><a href="mailto: info@wetcoolers.com">info@wetcoolers.com</a>
 </p>
