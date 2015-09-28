@@ -7613,13 +7613,14 @@ td {
 /* Default Link Styles */
 /* line 217, ../bower_components/foundation/scss/foundation/components/_type.scss */
 a {
-  color: #203256;
-  text-decoration: none;
+  color: #0000EE;
+  text-decoration: underline;
   line-height: inherit;
 }
 /* line 222, ../bower_components/foundation/scss/foundation/components/_type.scss */
 a:hover, a:focus {
-  color: #1c2b4a;
+  color: mediumblue;
+  text-decoration: none;
 }
 /* line 230, ../bower_components/foundation/scss/foundation/components/_type.scss */
 a img {
