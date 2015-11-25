@@ -4,37 +4,28 @@ layout: page
 summary: Develop your career as a sales professional with a supportive team, competitive compensation, and professional sales training.
 location: Seattle, WA
 ---
-# We're Hiring Account Executives
-Water Engineering Technologies provides high quality bottle-less water
-services to businesses small and large. Our technical expertise combined
-with best-in-class customer service has led to extremely strong growth
-rates and many happy customers since 1996.  Account Executives play a key role in both the acquisition of our customers, and maintaining the great relationships we are known for. We are proud to be an equal opportunity employer.
+# We're Hiring Account Managers
+We are a local, fast growing company leading the bottle-less water purification industry in the Pacific Northwest for twenty years.  We are actively hiring positive, aggressive, and talented outside business to business sales Account Executives with a pioneering spirit to grow and dominate the Seattle area and I-5 corridor. A successful Account Executive will perform daily physical cold calls, set professional appointments with decision makers, offer free trials and close business within 10 days of initial contact.
 
+## We'll Support you with the following:
+- High quality family of products
+- Supplemental telemarketing pre-set appointments with decision makers
+- Proven, high performing and sustainable sales process
+- Industry leading training
+- No micro-management
+- Experienced sales leadership
+- Many Opportunities for advancement as we agressively continue our growth trend.
+- Best in class Customer Service
 
-## The Job
-As an Account Executive, you will be responsible for:
+## You will receive the following:
+- Large, assigned territory
+- High earning potential including aggressive bonus structure, robust commissions, expense reimbursement and base salary. 
+- CRM access
+- 100% paid medical benefits
 
-- Working within assigned territory to qualify, convert, and close service
-contracts.
-- Making outbound lead follow-up calls to potential and existing
-customers in person, by telephone and through e-mail.
-- Manage your territory assignment to exceed quota target.
-- Participate, in person, in weekly sales training and team meetings at our Kent office.
+### About the company:
 
-## Qualifications
-We are looking for exceptional people who exhibit a high level of professionalism and communication skills.  We'll provide you with hands on training, software systems, and the tools you need to be successful.
-
-Here is what we are looking for:
-
-- Bachelors degree or 1 - 2 years of work experience.
-- Demonstrated experience in business to business sales is great, but drive and the
-ability to sell is more important.
-- Must be proficient in written and verbal communication skills.
-- Must be a self-starter with excellent communication, organizational
-and time management skills.
-- Demonstrate and ability to sell technical products/solutions with
-strong closing skills.
-- Ability to work effectively as team member.
+Water Engineering Technologies provides high quality bottle-less water services to businesses small and large. Our technical expertise combined with best-in-class customer service has led to extremely strong growth rates and many happy customers since 1996. We are an equal opportunity employer.
 
 ## Application Process
 Send us an <a href="mailto:&#104;&#114;&#064;&#119;&#101;&#116;&#099;&#111;&#111;&#108;&#101;&#114;&#115;&#046;&#099;&#111;&#109;">e-mail at hr@wetcoolers.com</a> with your resume and answers to the following questions:
