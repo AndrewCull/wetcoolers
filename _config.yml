@@ -5,8 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   We provide tankless water coolers and ice systems for healthcare, industrial, offices, and healthclubs in the Pacific Northwest.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wetcoolers.com" # the base hostname & protocol for your site
-twitter_username:
-github_username:  
+
+collections:
+  careers:
+    output: true
+    permalink: /careers/:path/
+
+
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="12-large columns">
+<h1>Employment Opportunities</h1>
+
+
+
+    <table>
+      <tr>
+      <th>Position</th>
+      <th>Summary</th>
+      <th>Location</th>
+      <th>Application</th>
+    </tr>
+{% for job in site.careers %}
+    <tr>
+      <td><a href="{{ job.url }}">{{ job.title }}</a></td>
+      <td>
+        {{ job.summary }}
+      </td>
+      <td>
+        {{ job.location }}
+      </td>
+      <td>
+        <a class="button tiny" style="margin-bottom: 0;" href="{{ job.url }}">Apply</a>
+      </td>
+{% endfor %}
+
+
+  </table>
+
+
+
+</div>
+</div>

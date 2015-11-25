@@ -2,13 +2,9 @@ body {
  height: auto;
 }
 
-.customer-logo {
-  max-width: 125px;
-  height: auto;
-}
 
 .spacer {
-  padding-top: 3em;
+  padding-top:2em;
 }
 
 .caption {
@@ -27,4 +23,8 @@ i {
 
 h1 {
   font-weight: 700;
+}
+
+.main {
+  margin-top: $topbar-height + 1rem;
 }

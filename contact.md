@@ -17,14 +17,26 @@ layout: page
   <input type="hidden" name="utf8" value="✓">
   <div class="row">
   <div class="large-6 medium-6 columns">
-  <input type="text" name="firstName" placeholder="First Name">
+  <input type="text" name="firstName" placeholder="First Name" required>
   </div>
 
   <div class="large-6 medium-6 columns">
-  <input type="text" name="firstName" placeholder="Last Name">
+  <input type="text" name="lastName" placeholder="Last Name" required>
   </div>
 
   </div>
+
+<div class="row">
+<div class="large-12 columns">
+<input type="tel" name="phoneNumber" placeholder="Phone Number" required>
+</div>
+</div>
+
+<div class="row">
+<div class="large-12 columns">
+<input type="email" name="email" placeholder="E-Mail Address">
+</div>
+</div>
 
 <div class="row">
 
@@ -38,7 +50,7 @@ layout: page
 
 <div class="row">
 <div class="large-12 columns">
-  <button type="submit" class="button small">Submit</button>
+  <button type="submit" class="button small radius">Submit</button>
 </div>
 </div>
 
@@ -56,13 +68,14 @@ layout: page
 
 </div>
 <div class="large-4 medium-4 columns">
-<p><strong>Office Address</strong><br/>
+<p><strong>Mailing Address</strong><br/>
 Water Engineering Technologies<br/>
-18439 East Valley Rd.<br/>
-Kent,  Washington 98032<br/>
+PO Box 58218<br/>
+Seattle, Washington 98138
 </p>
 
-<p><strong>Contact Info</strong><br/>
+<p><strong>Phone & Email</strong><br/>
+<i class="fa fa-phone"></i><a href="tel:1-877-466-2688">(877) 4 NO BOTTLE</a><br/>
 <i class="fa fa-phone"></i><a href="tel:253-893-7520">(253) 893-7520</a><br/>
 <i class="fa fa-envelope-o"></i><a href="mailto: info@wetcoolers.com">info@wetcoolers.com</a>
 </p>
