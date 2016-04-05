@@ -4,7 +4,7 @@ layout: page
 summary: Develop your career as a sales professional with a supportive team, competitive compensation, and professional sales training.
 location: Seattle, WA
 ---
-# We're Hiring Account Managers
+# We're Hiring Account Executives
 We are a local, fast growing company leading the bottle-less water purification industry in the Pacific Northwest for twenty years.  We are actively hiring positive, aggressive, and talented outside business to business sales Account Executives with a pioneering spirit to grow and dominate the Seattle area and I-5 corridor. A successful Account Executive will perform daily physical cold calls, set professional appointments with decision makers, offer free trials and close business within 10 days of initial contact.
 
 ## We'll Support you with the following:
@@ -14,12 +14,12 @@ We are a local, fast growing company leading the bottle-less water purification 
 - Industry leading training
 - No micro-management
 - Experienced sales leadership
-- Many Opportunities for advancement as we agressively continue our growth trend.
+- Many Opportunities for advancement as we aggressively continue our growth trend.
 - Best in class Customer Service
 
 ## You will receive the following:
 - Large, assigned territory
-- High earning potential including aggressive bonus structure, robust commissions, expense reimbursement and base salary. 
+- High earning potential including aggressive bonus structure, robust commissions, expense reimbursement and base salary.
 - CRM access
 - 100% paid medical benefits
 
