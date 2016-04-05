@@ -9230,20 +9230,31 @@ header a {
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  height: 350px;
+  height: 400px;
   background-image: url(../images/hero-background.jpg);
+  opacity: 0.5;
+  z-index: -1;
   background-position: center 20%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* line 12, ../_scss/_index.scss */
-.alpha {
-  background: #000, transparent;
-  background-color: rgba(0, 0, 0, 0.8);
+/* line 14, ../_scss/_index.scss */
+.hero-text {
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  margin-top: -250px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+/* line 24, ../_scss/_index.scss */
+.hero-text h1, .hero-text h2 {
+  text-align: center;
 }
 
-/* line 17, ../_scss/_index.scss */
+/* line 29, ../_scss/_index.scss */
 .statement {
   font-size: 1.2em;
   font-weight: bold;
@@ -9252,7 +9263,7 @@ header a {
   padding-bottom: 20px;
 }
 
-/* line 26, ../_scss/_index.scss */
+/* line 38, ../_scss/_index.scss */
 .industries {
   border-radius: 50%;
   max-height: 150px;
