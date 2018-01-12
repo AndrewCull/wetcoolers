@@ -13,7 +13,7 @@ layout: page
 <div class="large-8 medium-8 columns border-right">
 <p>Please complete the form below and we will get back to you within one business day.</p>
 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/f32b857ef5e8" method="POST">
+<form accept-charset="UTF-8" netlify>
   <input type="hidden" name="utf8" value="✓">
   <div class="row">
   <div class="large-6 medium-6 columns">
