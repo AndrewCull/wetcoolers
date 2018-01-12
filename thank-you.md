@@ -6,7 +6,7 @@ layout: page
 <div class="large-12 columns text center">
 <p>Thank you for your inquiry.  We look forward to talking with you soon.</p>
   
-<button><a href="/">Return to our homepage</a></button>
+<button class="button small radius"><a href="/">Return to our homepage</a></button>
 
 
 </div>
